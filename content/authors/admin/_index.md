@@ -46,7 +46,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/PicoitoJoao
 - icon: linkedin
-  icon_pack: ai  
+  icon_pack: fab  
   https://www.linkedin.com/in/jo%C3%A3o-picoito-8b7935186/
 - icon: google-scholar
   icon_pack: ai
