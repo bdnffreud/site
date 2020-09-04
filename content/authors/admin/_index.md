@@ -51,12 +51,12 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=I2lAaN8AAAAJ&hl=en&oi=ao
-#- icon: pubmed
-#  icon_pack: ai
-#  link: https://pubmed.ncbi.nlm.nih.gov/?term=picoito
-#- icon: publons
-#  icon_pack: ai
-#  link: https://publons.com/researcher/2935137/joao-picoito/
+- icon: pubmed
+  icon_pack: ai
+  link: https://pubmed.ncbi.nlm.nih.gov/?term=picoito
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/2935137/joao-picoito/
   
 #- icon: github
 #  icon_pack: fab
