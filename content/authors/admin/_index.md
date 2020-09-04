@@ -56,7 +56,7 @@ social:
   link: https://pubmed.ncbi.nlm.nih.gov/?term=picoito
 - icon: publons
   icon_pack: ai
-  link: 
+  link: https://publons.com/researcher/2935137/joao-picoito/
   
 #- icon: github
 #  icon_pack: fab
