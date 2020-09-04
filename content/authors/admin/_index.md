@@ -19,7 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
-I am a Child and Adolescent Psychiatry resident at Coimbra University Hospital, in Portugal, and a PhD candidate in Public Health at Escola Nacional de Saúde Pública, Universidade NOVA de Lisboa. My research interests are developmental psychopathology and latent variable statistical analysis.
+
 interests:
 - Developmental psychopathology
 - Adolescent risk behaviours
