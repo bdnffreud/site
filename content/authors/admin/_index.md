@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: ""
+I am a Child and Adolescent Psychiatry resident at Coimbra University Hospital, in Portugal, and a PhD candidate in Public Health at Escola Nacional de Saúde Pública, Universidade NOVA de Lisboa. My research interests are developmental psychopathology and latent variable statistical analysis.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Developmental psychopathology
+- Adolescent risk behaviours
+- Latent variable statistical analysis
 
 education:
   courses:
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Child and Adolescent Psychiatry trainee at Centro Hospitalar e Universitário de Coimbra and PhD candidate in Public Health at Universidade NOVA de Lisboa.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I do research on developmental psychopathology and adolescent risk behaviors using latent variable statistical methods.
