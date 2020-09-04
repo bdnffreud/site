@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: João Picoito
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Child and Adolescent Psychiatry Trainee & PhD Candidate in Public Health
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Centro Hospitalar Universitário de Coimbra / Universidade NOVA de Lisboa
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
