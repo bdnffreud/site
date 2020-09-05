@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    color: "platinum"
+    color: "water"
     text_color_light: false
   spacing:
     padding: ["20px", "0", "20px", "0"]
