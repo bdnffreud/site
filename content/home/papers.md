@@ -28,7 +28,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Picoito J, Santos C, Nunes C (2020) Heterogeneity and heterotypic continuity of emotional and behavioural profiles across development. **Soc Psychiatry Psychiatr Epidemiol.** doi: 10.1007/s00127-020-01903-y Full text here: https://rdcu.be/b6i3w
+Picoito J, Santos C, Nunes C (2020) Heterogeneity and heterotypic continuity of emotional and behavioural profiles across development. **Soc Psychiatry Psychiatr Epidemiol.** doi: 10.1007/s00127-020-01903-y Full text [here](https://rdcu.be/b6i3w)
 
 
 
