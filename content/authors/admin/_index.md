@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:joao.picoito@gmail.com".
+  link: "mailto:joao.picoito@gmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/PicoitoJoao
