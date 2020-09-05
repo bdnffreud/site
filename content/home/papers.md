@@ -23,7 +23,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-[**Picoito J**, Santos C, Nunes C (2020) Heterogeneity and heterotypic continuity of emotional and behavioural profiles across development. **Soc Psychiatry Psychiatr Epidemiol.** doi: 10.1007/s00127-020-01903-y.](https://link.springer.com/article/10.1007/s00127-020-01903-y) Full text [here](https://rdcu.be/b6i3w)
+<span style="color:blue">some[**Picoito J**, Santos C, Nunes C (2020) Heterogeneity and heterotypic continuity of emotional and behavioural profiles across development. **Soc Psychiatry Psychiatr Epidemiol.** doi: 10.1007/s00127-020-01903-y.](https://link.springer.com/article/10.1007/s00127-020-01903-y) Full text [here](https://rdcu.be/b6i3w)text</span>
 
 [**Picoito J** (2020) Commentary on Evans et al. (2020): the complex interplay between adolescent substance use, internalizing and externalizing symptoms. **Addiction.** doi: 10.1111/add.15171](https://onlinelibrary.wiley.com/doi/full/10.1111/add.15171)
 
