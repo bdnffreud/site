@@ -12,13 +12,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Publications
+title: Demos
 subtitle:
 
 design:
   columns: "1"
   background:
-  color = "white"
+    color="white"
+    text_color_light: false
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
