@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Child and Adolescent Psychiatry Trainee & PhD Candidate in Public Health
+role: Child and Adolescent Psychiatry Trainee & PhD (c) in Public Health
 
 # Organizations/Affiliations
 organizations:
