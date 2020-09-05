@@ -1,5 +1,5 @@
 ---
-title: The complex interplay between adolescent substance use and internalizing and externalizing symptoms
+title: The complex interplay between adolescent substance use, internalizing and externalizing symptoms
 subtitle: ""
 summary: ""
 authors:
