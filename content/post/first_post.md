@@ -34,7 +34,7 @@ Although the association between externalizing symptoms (such as hyperactivity, 
 
 I argue that this may stem from the complex interplay between these two symptoms dimensions (internalizing and externalizing). This complexity may be due to the heterotypical continuity of externalizing and internalizing symptoms, and the high comorbidity between the two.
 
-For more on heterotypic and homotypic continuity of internalizing and externalizing symptoms, you can check my latest (paper)[ https://link.springer.com/article/10.1007/s00127-020-01903-y)  published in [Social Psychiatry and Psychiatric Epidemiology](https://www.springer.com/journal/127).
+For more on heterotypic and homotypic continuity of internalizing and externalizing symptoms, you can check my latest [paper](https://link.springer.com/article/10.1007/s00127-020-01903-y)  published in [Social Psychiatry and Psychiatric Epidemiology](https://www.springer.com/journal/127).
 
 You can find the commentary [here](https://onlinelibrary.wiley.com/doi/full/10.1111/add.15171).
 
