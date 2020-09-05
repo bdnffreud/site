@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Demos
+title: Publications
 subtitle:
 
 design:
@@ -23,7 +23,7 @@ design:
     image_parallax: true
     image_position: center
     image_size: cover
-    text_color_light: true
+    text_color_light: false
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
