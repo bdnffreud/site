@@ -42,7 +42,7 @@ design:
 
 **Picoito J**, Santos V, Rita H. Psychiatric comorbidity in adults with Autism Spectrum Disorder. **Revista Portuguesa de Pedopsiquiatria** 43:57-84 [article in Portuguese]
 
-[Santos C, **Picoito J**, Teixeira AL, Rodrigues C, Ferreira S (2017) Platelet to Lymphocyte Ratio and Homeostasis Model Assessment of Insulin Resistance in Pediatric Obesity and Overweight. **Revista Portuguesa de Endocrinologia, Diabetes e Metabolismo** 12:177–182](
+[Santos C, **Picoito J**, Teixeira AL, Rodrigues C, Ferreira S (2017) Platelet to Lymphocyte Ratio and Homeostasis Model Assessment of Insulin Resistance in Pediatric Obesity and Overweight. **Revista Portuguesa de Endocrinologia, Diabetes e Metabolismo** 12:177–182](https://www.spedmjournal.com/section.php?id=326)
 
 
 #Welcome to the demo of the **resumé template** for Academic.
