@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: headers/bubbles-wide.jpg
+    image: #headers/bubbles-wide.jpg
     image_darken: 0.6
     image_parallax: true
     image_position: center
@@ -43,18 +43,3 @@ design:
 **Picoito J**, Santos V, Rita H. Psychiatric comorbidity in adults with Autism Spectrum Disorder. **Revista Portuguesa de Pedopsiquiatria** 43:57-84 [article in Portuguese]
 
 [Santos C, **Picoito J**, Teixeira AL, Rodrigues C, Ferreira S (2017) Platelet to Lymphocyte Ratio and Homeostasis Model Assessment of Insulin Resistance in Pediatric Obesity and Overweight. **Revista Portuguesa de Endocrinologia, Diabetes e Metabolismo** 12:177–182](https://www.spedmjournal.com/section.php?id=326)
-
-
-#Welcome to the demo of the **resumé template** for Academic.
-#
-#[View more templates](https://sourcethemes.com/academic/templates/) for Academic.
-#
-#**Over 500,000 [Amazing Websites](https://sourcethemes.com/academic/) have Already Been Built with Academic**
-#
-#**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
-#
-#{{% alert note %}}
-#This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget]#(https://sourcethemes.com/academic/docs/widgets/).
-#
-#Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-#{{% /alert %}}
