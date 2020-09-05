@@ -1,10 +1,10 @@
 ---
-title: Display Jupyter Notebooks with Academic
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
+title: The complex interplay between adolescent substance use and internalizing and externalizing symptoms
+subtitle: ""
+summary: ""
 authors:
 - admin
-tags: []
+tags: [adolescent substance use]
 categories: []
 date: "2019-02-05T00:00:00Z"
 lastMod: "2019-09-05T00:00:00Z"
@@ -26,71 +26,16 @@ image:
 projects: []
 ---
 
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
+Recently, I had the opportunity to comment on a paper by [Evans et al. 2020]( https://onlinelibrary.wiley.com/doi/abs/10.1111/add.15040) published in [Addiction]( https://onlinelibrary.wiley.com/journal/13600443). 
+
+One of the findings that interested me was that psychosomatic problems were associated with adolescent substance use. 
+
+Although the association between externalizing symptoms (such as hyperactivity, aggression, conduct problems) and adolescent substance use has been repeatedly reported, the evidence for the association between internalizing symptoms and adolescent substance use is more controversial.
+
+I argue that this may stem from the complex interplay between these two symptoms dimensions (internalizing and externalizing). This complexity may be due to the heterotypical continuity of externalizing and internalizing symptoms, and the high comorbidity between the two.
+
+For more on heterotypic and homotypic continuity of internalizing and externalizing symptoms, you can check my latest (paper)[ https://link.springer.com/article/10.1007/s00127-020-01903-y)  published in [Social Psychiatry and Psychiatric Epidemiology](https://www.springer.com/journal/127).
+
+You can find the commentary [here](https://onlinelibrary.wiley.com/doi/full/10.1111/add.15171).
 
 
-
-
-![png](./index_1_0.png)
-
-
-
-
-```python
-print("Welcome to Academic!")
-```
-
-    Welcome to Academic!
-
-
-## Install Python and JupyterLab
-
-[Install Anaconda](https://www.anaconda.com/distribution/#download-section) which includes Python 3 and JupyterLab.
-
-Alternatively, install JupyterLab with `pip3 install jupyterlab`.
-
-## Create or upload a Jupyter notebook
-
-Run the following commands in your Terminal, substituting `<MY-WEBSITE-FOLDER>` and `<SHORT-POST-TITLE>` with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:
-
-```bash
-mkdir -p <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-cd <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-jupyter lab index.ipynb
-```
-
-The `jupyter` command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.
-
-## Edit your post metadata
-
-The first cell of your Jupter notebook will contain your post metadata ([front matter](https://sourcethemes.com/academic/docs/front-matter/)).
-
-In Jupter, choose _Markdown_ as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter: 
-
-```
----
-title: My post's title
-date: 2019-09-01
-
-# Put any other Academic metadata here...
----
-```
-
-Edit the metadata of your post, using the [documentation](https://sourcethemes.com/academic/docs/managing-content) as a guide to the available options.
-
-To set a [featured image](https://sourcethemes.com/academic/docs/managing-content/#featured-image), place an image named `featured` into your post's folder.
-
-For other tips, such as using math, see the guide on [writing content with Academic](https://sourcethemes.com/academic/docs/writing-markdown-latex/). 
-
-## Convert notebook to Markdown
-
-```bash
-jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-```
-
-## Example
-
-This post was created with Jupyter. The orginal files can be found at https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter
