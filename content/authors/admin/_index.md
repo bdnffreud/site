@@ -30,13 +30,13 @@ education:
   - course: PhD in Public Health
     institution: Universidade NOVA de Lisboa
     year: 2017-present
+  - course: European Certificate in Anxiety and Depression
+    institution: Maastricht University
+    year: 2016
   - course: Integrated Master in Medicine
     institution: Universidade de Lisboa
-    year: 2013
-  #- course: BSc in Artificial Intelligence
-  #  institution: Massachusetts Institute of Technology
-  #  year: 2008
-
+    year: 2007-2013
+ 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
