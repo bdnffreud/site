@@ -23,6 +23,7 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
+[**Picoito J**, Santos C, Nunes C (2020) Emotional and behavioural pathways to adolescent substance use and antisocial behaviour: results from the UK Millennium Cohort Study. **Eur Child Adolesc Psychiatry**. doi: 10.1007/s00787-020-01661-x](https://link.springer.com/article/10.1007/s00787-020-01661-x) Full text [here](https://rdcu.be/b9UNE)
 
 [**Picoito J**, Santos C, Nunes C (2020) Heterogeneity and heterotypic continuity of emotional and behavioural profiles across development. **Soc Psychiatry Psychiatr Epidemiol.** doi: 10.1007/s00127-020-01903-y.](https://link.springer.com/article/10.1007/s00127-020-01903-y) Full text [here](https://rdcu.be/b6i3w)
 
